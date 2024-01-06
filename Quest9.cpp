@@ -1,6 +1,6 @@
 //21_ENG_151 W.D.S.R.RUDRIGO
 //21/ENG/003 A.M.D.T Adikari
-//U.H.K.S.Herath 21/ENG/149
+//21/ENG/149 U.H.K.S.Herath 
 
 #include <iostream>
 #include <fstream>
